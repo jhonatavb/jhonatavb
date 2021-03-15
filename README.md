@@ -37,7 +37,7 @@ O que gosto de realizar nas horas livres:
 
 **Interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://i.imgur.com/IXHBogq.jpg" width="400px" />
+<img align="right" alt="GIF" src="https://i.imgur.com/KqXGit2.png" width="400px" />
 
 Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto para o profissional. Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira.
 
