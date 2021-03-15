@@ -36,14 +36,14 @@ O que gosto de realizar nas horas livres:
 
 <img align="right" alt="GIF" src="https://i.imgur.com/IXHBogq.jpg" width="400px" />
 
-  💻 Aprender novas tecnologias para o crescimento pessoal e profissional;
-  💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-  Hobbies:
-    Estudar sobre segurança ofensiva com ênfase em pentesting; 
-    Ler livros;
-    Ouvir músicas;
-  💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-  📫 Se quiser pode enviar um email para jhonatavbrg@gmail.com;
+Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto para o profissional. Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira.
+
+Hobbies:
+   - Estudar sobre segurança ofensiva com ênfase em pentesting; 
+   - Ler livros;
+   - Ouvir músicas;
+   - Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+   - Se quiser pode enviar um email para jhonatavbrg@gmail.com;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatavbrg&layout=compact&theme=graywhite&title_color=268bd2" alt="Jhonata Braga" />
