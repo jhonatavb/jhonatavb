@@ -45,8 +45,8 @@ Hobbies:
    - Estudar sobre segurança ofensiva com ênfase em pentesting; 
    - Ler livros;
    - Ouvir músicas;
-   - Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-   - Se quiser pode enviar um email para jhonatavbrg@gmail.com;
+
+Se quiser pode enviar um email para jhonatavbrg@gmail.com;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatavbrg&layout=compact&theme=graywhite&title_color=268bd2" alt="Jhonata Braga" />
