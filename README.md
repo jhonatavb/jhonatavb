@@ -46,7 +46,7 @@ Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto pa
    - Ler livros;
    - Ouvir músicas;
 
-Se quiser pode enviar um email para jhonatavbrg@gmail.com;
+Caso precise entrar em contato, o email é: jhonatavbrg@gmail.com;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatavbrg&layout=compact&theme=graywhite&title_color=268bd2" alt="Jhonata Braga" />
