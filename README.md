@@ -1,5 +1,4 @@
 <h1 align="center"> Seja bem vinda(o)! </h1>
-
 <a href="https://github.com/jhonatavbrg" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
@@ -46,7 +45,8 @@ Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto pa
    - Ler livros;
    - Ouvir músicas;
 
-Caso precise entrar em contato, o email é: jhonatavbrg@gmail.com;
+Caso precise entrar em contato: &nbsp;
+jhonatavbrg@gmail.com;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatavbrg&layout=compact&theme=graywhite&title_color=268bd2" alt="Jhonata Braga" />
