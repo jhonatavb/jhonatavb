@@ -45,7 +45,7 @@ Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto pa
    - Ler livros;
    - Ouvir músicas;
 
-Caso precise entrar em contato: &nbsp;
+Caso precise entrar em contato:<br>
 jhonatavbrg@gmail.com;
 
 <p>
