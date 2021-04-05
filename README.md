@@ -52,7 +52,7 @@ Caso precise entrar em contato, o email é: jhonatavbrg@gmail.com;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatavbrg&layout=compact&theme=graywhite&title_color=268bd2" alt="Jhonata Braga" />
 </p>
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonatavbrg&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Jhonata Braga" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatavbrg&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Jhonata Braga" />
 </p>
 
 **Linguagens e ferramentas:**  
