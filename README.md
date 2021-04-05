@@ -42,7 +42,7 @@ O que gosto de realizar nas horas livres:
 Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto para o profissional. Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira.
 
 **Hobbies:**
-   - Estudar sobre segurança ofensiva com ênfase em pentesting; 
+   - Codar; 
    - Ler livros;
    - Ouvir músicas;
 
