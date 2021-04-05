@@ -53,8 +53,8 @@ Caso precise entrar em contato, o email é: jhonatavbrg@gmail.com;
 </p><br><br><br><br><br><br><br><br>
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonatavbrg&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Jhonata Braga" />
-</p><br>
-<div style="text-align:center">
+</p><br><br><br><br><br><br><br><br>
+
 **Linguagens e ferramentas:**  
 
 <p align="left">
@@ -81,7 +81,7 @@ Caso precise entrar em contato, o email é: jhonatavbrg@gmail.com;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 </p>
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatavbrg" alt="Jhonata-Braga" /> </p>
 
