@@ -42,7 +42,7 @@ Gosto de aprender novas tecnologias tanto para meu crescimento pessoal quanto pa
 
 **Hobbies:**
    - Codar; 
-   - Ler livros;
+   - Jogar;
    - Ouvir músicas;
 
 Caso precise entrar em contato:<br>
