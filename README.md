@@ -31,16 +31,15 @@ Be very welcome.
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--yXd1I4K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Javascript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--MRXwUmKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--uIFfSmJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Elixir-4B275F%3Fstyle%3Dfor-the-badge%26logo%3Delixir%26logoColor%3Dwhite)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--OvXzauo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--7sSBcOK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/SQLite-07405E%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--m4KqDleG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--Rl0DwDaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--K5_crFQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--alRGNk02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Bootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--bzsDTiyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Redux-593D88%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--QKydrfKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--OvXzauo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--m4KqDleG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--7sSBcOK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/SQLite-07405E%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--alRGNk02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Bootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--yzBXPae8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Heroku-430098%3Fstyle%3Dfor-the-badge%26logo%3Dheroku%26logoColor%3Dwhite)
-
 
 ********
 <details>
