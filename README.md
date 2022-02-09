@@ -9,10 +9,9 @@ Be very welcome.
 ## Things I love :heart:
 
 ![](https://badges.aleen42.com/src/hacker.svg)
-![](https://img.shields.io/badge/-Low_Level_Programming-green)
-![](https://img.shields.io/badge/-Assembly-black)
-![](https://img.shields.io/badge/-C-gray)
-![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
+![](https://img.shields.io/badge/editor-vi-blue)
+![](https://img.shields.io/badge/low-programming-green)
+![](https://img.shields.io/badge/lang-assembly-black)
 
 ## Skills
 
