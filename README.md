@@ -8,11 +8,25 @@ Be very welcome.
 
 ## Things I love :heart:
 
-![](https://img.shields.io/badge/-Pentesting-blue)
+![](https://badges.aleen42.com/src/hacker.svg)
 ![](https://img.shields.io/badge/-Low_Level_Programming-green)
 ![](https://img.shields.io/badge/-Assembly-black)
 ![](https://img.shields.io/badge/-C-gray)
 ![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
+
+## Skills
+
+![](https://badges.aleen42.com/src/github.svg)
+![](https://badges.aleen42.com/src/javascript.svg)
+![](https://badges.aleen42.com/src/npm.svg)
+![](https://badges.aleen42.com/src/node.svg)
+![](https://badges.aleen42.com/src/jest_1.svg)
+![](https://badges.aleen42.com/src/eslint.svg)
+![](https://badges.aleen42.com/src/react.svg)
+![](https://badges.aleen42.com/src/redux.svg)
+![](https://badges.aleen42.com/src/python.svg)
+![](https://badges.aleen42.com/src/docker.svg)
+![](https://badges.aleen42.com/src/slack.svg)
 
 ********
 <details>
