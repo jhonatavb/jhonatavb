@@ -2,8 +2,8 @@
 
 Be very welcome.
 
-- :computer: I'm currently completing my full stack training through [Trybe](https://github.com/tryber).
-- :man_student: I'm also taking a degree in Systems Analysis and Development.
+- :computer: I'm trained as a software developer (full stack) by [Trybe](https://github.com/tryber).
+- :man_student: I have a degree in Systems Analysis and Development.
 - 🕵️ Fun fact: I love offensive security, more precisely pentest and want to specialize in the area.
 
 ## Things I love :heart:
