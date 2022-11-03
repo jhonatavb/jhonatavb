@@ -4,7 +4,7 @@ Be very welcome.
 
 - :computer: I'm trained as a software developer (full stack) by [Trybe](https://github.com/tryber).
 - :man_student: I have a degree in Systems Analysis and Development.
-- 🕵️ Fun fact: I love offensive security, more precisely pentest and want to specialize in the area.
+- 🕵️ Fun fact: I love offensive security (pentest), minimalism and coffee. My favorite text editor is VI (vim, nvim).
 
 ## Things I love :heart:
 
