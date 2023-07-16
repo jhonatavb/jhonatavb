@@ -2,8 +2,9 @@
 
 Be very welcome.
 
-- :computer: I'm trained as a software developer (full stack) by [Trybe](https://github.com/tryber).
-- :man_student: I have a degree in Systems Analysis and Development.
+- 👨‍💻: I'm trained as a full stack software developer by [Trybe](https://github.com/tryber).
+- 👨‍💻: I'm trained as a back-end software developer by [Cubos](https://github.com/cubos-academy).
+- 🎓: I have a degree in Systems Analysis and Development.
 - 🕵️ Fun fact: I love offensive security (pentest), minimalism and coffee. My favorite text editor is vi (vim, nvim).
 
 ## Things I love :heart:
