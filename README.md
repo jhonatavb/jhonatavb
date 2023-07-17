@@ -12,7 +12,7 @@ Be very welcome.
 ![](https://badges.aleen42.com/src/hacker.svg)
 ![](https://shields.io/badge/vi-editor-black?logo=vim&style=plastic)
 ![](https://shields.io/badge/low_level-programming-black?logo=c&style=plastic)
-![](https://img.shields.io/badge/lang-assembly-black)
+![](https://img.shields.io/badge/%E2%98%95%20coffee-drink-black.svg)
 
 ## Skills
 
