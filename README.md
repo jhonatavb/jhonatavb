@@ -2,8 +2,8 @@
 
 Be very welcome.
 
-- 👨‍💻: I'm trained as a full stack software developer by [Trybe](https://github.com/tryber).
 - 👨‍💻: I'm trained as a back-end software developer by [Cubos](https://github.com/cubos-academy).
+- 👨‍💻: I'm trained as a full stack software developer by [Trybe](https://github.com/tryber).
 - 🎓: I have a degree in Systems Analysis and Development.
 - 🕵️ Fun fact: I love offensive security (pentest), minimalism and coffee. My favorite text editor is vi (vim, nvim).
 
