@@ -60,6 +60,6 @@ Be very welcome.
 <details>
   <summary>📊 Github Stats</summary>
   <br />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhonatavbrg&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhonatavb&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 
 </details>
