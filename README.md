@@ -5,6 +5,7 @@ Be very welcome.
 - 👨‍💻: I'm trained as a backend software developer by [Cubos](https://github.com/cubos-academy).
 - 👨‍💻: I'm trained as a fullstack software developer by [Trybe](https://github.com/betrybe).
 - 🎓: I have a degree in Systems Analysis and Development.
+- 🎓: I'm pursuing a degree in Computer Engineering.
 - 🕵️ Fun fact: I love offensive security (pentest), minimalism and coffee. My favorite text editor is vi (vim, nvim).
 
 ## Things I love :heart:
